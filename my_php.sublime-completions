@@ -1,0 +1,14 @@
+{
+    "scope": "source.php",
+    "completions": [
+        {
+            "trigger": "la", "contents": "\\$lang['$1']                   = '$2';"
+        },
+        {
+            "trigger": "lan", "contents": "\\$this->lang->line('$1');",
+        },
+        {
+            "trigger": "dd", "contents": "var_dump($1); die;",
+        }
+    ]
+}

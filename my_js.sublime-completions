@@ -1,0 +1,11 @@
+{
+    "scope": "source.js",
+    "completions": [
+        {
+            "trigger": "cc", "contents": "console.log('$1');"
+        },
+        {
+            "trigger": "d", "contents": "debugger;"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "scope": "text.html",
+    "completions": [
+        {
+            "trigger": "la", "contents": "<?php echo \\$this->lang->line('$1'); ?>"
+        },
+        {
+            "trigger": "xx", "contents": " class=\"corporateColor\" "
+        }
+    ]
+}

@@ -11,3 +11,4 @@ For Windows:
  - **MaxPane**    : https://github.com/jisaacks/MaxPane
  - **Alignment**  : https://www.granneman.com/webdev/editors/sublime-text/packages/how-to-install-and-use-sublime-alignment/
  - **PrettyJson** : https://github.com/dzhibas/SublimePrettyJson
+ - **PHP Getters and Setters** : https://github.com/francodacosta/sublime-php-getters-setters

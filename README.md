@@ -1,3 +1,10 @@
+# Why this?
+Over the years I try to organize my code as good as I can. Every few months I discover interesting plugins or take decisions based on my own experience with the objective of improve the way I work.
+Sublime Text (and its awesome community) lets me code as I want, but since sometimes I use different systems to program (office, home, laptop, ...) I want to have a place where unify and update my configuration, and write a summary of the plugins that I use.
+
+This is for me.
+**But its also for you**, if you want to try (or want to get some ideas from) my development environment.
+
 # Sublime-Configs
 This repository contains my Sublime Text personal settings, plugin references, code templates/snippets, and more.
 

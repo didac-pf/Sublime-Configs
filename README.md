@@ -23,4 +23,4 @@ For Windows:
 	Trimmer                 : https://github.com/jonlabelle/Trimmer
 	PlainTasks              : https://github.com/aziz/PlainTasks
 	ColorPicker             : https://packagecontrol.io/packages/ColorPicker
-	Theme - Centurion       : https://github.com/allanhortle/Centurion
+	Theme - Flatland        : https://github.com/thinkpixellab/flatland

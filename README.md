@@ -15,12 +15,12 @@ For Windows:
 	- C:\Users\\[Username]\AppData\Roaming\Sublime Text 3\Packages\User
 
 ## Package Control Plugins
-	**Package Control**         : https://packagecontrol.io/installation
-	**MaxPane**                 : https://github.com/jisaacks/MaxPane
-	**Alignment**               : https://www.granneman.com/webdev/editors/sublime-text/packages/how-to-install-and-use-sublime-alignment/
-	**PrettyJson**              : https://github.com/dzhibas/SublimePrettyJson
-	**PHP Getters and Setters** : https://github.com/francodacosta/sublime-php-getters-setters
-	**Trimmer**                 : https://github.com/jonlabelle/Trimmer
-	**PlainTasks**              : https://github.com/aziz/PlainTasks
-	**ColorPicker**             : https://packagecontrol.io/packages/ColorPicker
-	**Theme - Centurion**       : https://github.com/allanhortle/Centurion
+	Package Control         : https://packagecontrol.io/installation
+	MaxPane                 : https://github.com/jisaacks/MaxPane
+	Alignment               : https://www.granneman.com/webdev/editors/sublime-text/packages/how-to-install-and-use-sublime-alignment/
+	PrettyJson              : https://github.com/dzhibas/SublimePrettyJson
+	PHP Getters and Setters : https://github.com/francodacosta/sublime-php-getters-setters
+	Trimmer                 : https://github.com/jonlabelle/Trimmer
+	PlainTasks              : https://github.com/aziz/PlainTasks
+	ColorPicker             : https://packagecontrol.io/packages/ColorPicker
+	Theme - Centurion       : https://github.com/allanhortle/Centurion
